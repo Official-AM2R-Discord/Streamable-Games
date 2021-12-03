@@ -8,6 +8,7 @@
 - Axiom Verge 2
 - Hollow Knight
 - Hollow Knight: Silksong
+- Psycron
 
 Got a suggestion for another game to allow? Open a PR!
 
