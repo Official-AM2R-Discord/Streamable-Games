@@ -13,10 +13,8 @@
 - Guacamelee
 - NES and SNES Castlevanias and Tetris games
 - Terranigma
-- Far Cry 3 Blood Dragon
 - Diablo 2 (+SFW mods)
 - Doom 2016 + Eternal
-- System Shock Remakes
 - Bō: Path Of The Teal Lotus
 
 Got a suggestion for another game to allow? Open a PR!
