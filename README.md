@@ -16,6 +16,7 @@
 - Diablo 2 (+SFW mods)
 - Doom 2016 + Eternal
 - Bō: Path Of The Teal Lotus
+- Streets of Rage 4 + SORRemake
 
 Got a suggestion for another game to allow? Open a PR!
 
