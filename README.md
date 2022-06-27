@@ -9,6 +9,7 @@
 - Hollow Knight
 - Hollow Knight: Silksong
 - Psycron
+- Cave Story (Main story and Randovania only)
 
 Got a suggestion for another game to allow? Open a PR!
 
