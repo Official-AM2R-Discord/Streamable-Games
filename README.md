@@ -9,6 +9,14 @@
 - Hollow Knight
 - Hollow Knight: Silksong
 - Psycron
+- Minecraft
+- Terraria
+- Fortnite
+- Cities: Skylines
+- Among Us
+- No Man's Sky
+- Subnautica
+- Portal (All games in the series)
 
 Got a suggestion for another game to allow? Open a PR!
 
