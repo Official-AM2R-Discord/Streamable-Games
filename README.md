@@ -26,7 +26,7 @@
 - Age of Empires games
 - Minecraft
 - Timespinner
-
+- Cave Story (Main story and Randovania only)
 
 Got a suggestion for another game to allow? Open a PR!
 
